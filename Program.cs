@@ -23,7 +23,7 @@ namespace ConsoleApp1
             int valorint = Convert.ToInt32(valor1);
 
             Console.ReadKey();
-
+             
         }
     }
 }
